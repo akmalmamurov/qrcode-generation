@@ -1,0 +1,48 @@
+export const orderList = [
+  {
+    product_group: "1",
+    person: "Иванов Иван Иванович",
+    method: "Способ выпуска товаров в оборот",
+    code_product: "0001",
+    number_km: "2",
+    marking_code: "Тип кода маркировки",
+    generat_method: "Способ формирования серийного номера",
+  },
+  {
+    product_group: "2",
+    person: "Сергеев Сергей Сергеевич",
+    method: "Способ выпуска товаров в оборот",
+    code_product: "002",
+    number_km: "3",
+    marking_code: "Тип кода маркировки",
+    generat_method: "Способ формирования серийного номера",
+  },
+  {
+    product_group: "3",
+    person: "Петров Петр Петрович",
+    method: "Способ выпуска товаров в оборот",
+    code_product: "003",
+    number_km: "4",
+    marking_code: "Тип кода маркировки",
+    generat_method: "Способ формирования серийного номера", 
+  },
+  {
+    product_group: "4",
+    person: "Александров Александр Александрович",
+    method: "Способ выпуска товаров в оборот",
+    code_product: "004",
+    number_km: "5",
+    marking_code: "Тип кода маркировки",
+    generat_method: "Способ формирования серийного номера",
+  },  
+  {
+    product_group: "5",
+    person: "Антонов Антон Антонович",
+    method: "Способ выпуска товаров в оборот",
+    code_product: "005",
+    number_km: "6",
+    marking_code: "Тип кода маркировки",
+    generat_method: "Способ формирования серийного номера",
+  },
+
+];
